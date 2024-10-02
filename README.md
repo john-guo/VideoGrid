@@ -27,8 +27,7 @@
 - --ffmpeg: 指定 ffmpeg 可执行文件的路径（PATH查找路径包含的话可以不用这个选项，否则必须指定）。
 - --force: 如果指定此选项，会强制重新生成视频数据。
 
-3. 将 index.html、生成的 video-data.js 文件以及视频文件放置在同一个目录中。
-4. 使用浏览器打开 index.html，即可查看视频列表页面。
+3. 使用浏览器打开 index.html，即可查看视频列表页面。
   
 ### 功能
 
@@ -60,9 +59,7 @@ VideoGrid is a lightweight, responsive web app that dynamically generates a vide
 - --ffmpeg: The path to the ffmpeg binary (optional if the ffmpeg has already been included in PATH).
 - --force: Forces a rebuild of the video data if specified.
 
-3. Place index.html, the generated video-data.js file, and your video files in the same directory.
-
-4. Open index.html in a web browser to view the video list.
+3. Open index.html in a web browser to view the video list.
 
 ### Features
 
